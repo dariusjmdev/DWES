@@ -30,7 +30,7 @@ public class Main {
             return "Baja";
         } else if (2 <= numEquipos && numEquipos <= 5) {
             return "Media";
-        } else if (6 <= numEquipos && numEquipos <= 10) {
+        } else if (6 <= numEquipos && numEquipos <= 15) {
             return "Alta";
         } else {
             return "Crítica";
